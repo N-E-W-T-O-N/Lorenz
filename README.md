@@ -4,7 +4,7 @@ The Lorenz system is a set of three coupled, nonlinear differential equations in
 
 ## The Differential Equations
 
-The Lorenz equations are given by:
+The Lorenz equations are define as :
 
 $$
 \begin{aligned}
@@ -16,10 +16,10 @@ $$
 
 Where:
 
-- \(x, y, z\) are the system variables (e.g., representing convection, temperature, etc.).
-- \(\sigma\) (sigma) is the Prandtl number, related to the fluid's viscosity.
-- \(\rho\) (rho) is the Rayleigh number, related to the temperature difference driving convection.
-- \(\beta\) (beta) is a geometric factor.
+- $X, Y, Z$ are the system variables (e.g., representing convection, temperature, etc.).
+- $\sigma$ (sigma) is the Prandtl number, related to the fluid's viscosity.
+- $\rho$ (rho) is the Rayleigh number, related to the temperature difference driving convection.
+- $\beta$ (beta) is a geometric factor.
 
 ## Key Features
 
